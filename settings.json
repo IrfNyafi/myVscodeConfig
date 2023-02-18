@@ -1,0 +1,59 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "editor.tabSize": 4,
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": // <path> e.g "C:\\Dev\\vscode_vim\\.vimrc",
+    "clang-format.executable": // <path> "C:\\Program Files\\mingw64\\bin\\clang-format.exe",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, UseTab: Never, IndentWidth: 4, TabWidth: 4, BreakBeforeBraces: Allman, IndentCaseLabels: true, ColumnLimit: 0, AccessModifierOffset: -4, ReferenceAlignment: Left}",
+    // ===================================================================================
+    // Personal Settings 
+    // ===================================================================================
+    "editor.cursorBlinking": "solid",
+    "editor.fontSize": 14,
+    //"editor.fontFamily": "Cascadia Code, Inconsolata, 'Courier New', monospace",
+    //"editor.fontFamily": "Hack Nerd Font",
+    "editor.fontWeight": "normal",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "relative",
+    //"editor.suggestLineHeight": 0,
+    "editor.bracketPairColorization.enabled": true,
+    // "editor.guides.bracketPairs": "active",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.activeForeground": "#ebce51",
+        "[Default Dark+]": {
+            "activityBar.background": "#272629",
+            "sideBar.background": "#1c1b1f",
+            "breadcrumb.background": "#17171a",
+            "editor.background": "#17171b",
+            "panel.background": "#19181b",
+            "titleBar.activeBackground": "#272629",
+            "activityBar.border": "#211230",
+            "sideBar.border": "#221d27",
+            "tab.activeBackground": "#000000",
+            "tab.border": "#1c1c20",
+            "tab.inactiveBackground": "#1f1c22",
+            //"editorGroupHeader.tabsBackground": "#1c1b22"
+            "editorGroupHeader.tabsBackground": "#1f1c22"
+        }
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "[python]": {},
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "right",
+    "editor.formatOnSave": true,
+    "markdown.extension.toc.updateOnSave": false,
+}
